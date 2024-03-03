@@ -1,3 +1,4 @@
 # Bioinformatic1
 2024 spring bioinformatics course
-- dlsakfjldj
+#week 1 homework
+1. class notes
